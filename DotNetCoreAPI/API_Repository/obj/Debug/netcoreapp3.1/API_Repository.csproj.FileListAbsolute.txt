@@ -1,0 +1,13 @@
+F:\DotNet_Core_WEB_API\DotNetCoreAPI\API_Repository\obj\Debug\netcoreapp3.1\API_Repository.csproj.AssemblyReference.cache
+F:\DotNet_Core_WEB_API\DotNetCoreAPI\API_Repository\obj\Debug\netcoreapp3.1\API_Repository.GeneratedMSBuildEditorConfig.editorconfig
+F:\DotNet_Core_WEB_API\DotNetCoreAPI\API_Repository\obj\Debug\netcoreapp3.1\API_Repository.AssemblyInfoInputs.cache
+F:\DotNet_Core_WEB_API\DotNetCoreAPI\API_Repository\obj\Debug\netcoreapp3.1\API_Repository.AssemblyInfo.cs
+F:\DotNet_Core_WEB_API\DotNetCoreAPI\API_Repository\obj\Debug\netcoreapp3.1\API_Repository.csproj.CoreCompileInputs.cache
+F:\DotNet_Core_WEB_API\DotNetCoreAPI\API_Repository\bin\Debug\netcoreapp3.1\API_Repository.deps.json
+F:\DotNet_Core_WEB_API\DotNetCoreAPI\API_Repository\bin\Debug\netcoreapp3.1\API_Repository.runtimeconfig.json
+F:\DotNet_Core_WEB_API\DotNetCoreAPI\API_Repository\bin\Debug\netcoreapp3.1\API_Repository.runtimeconfig.dev.json
+F:\DotNet_Core_WEB_API\DotNetCoreAPI\API_Repository\bin\Debug\netcoreapp3.1\API_Repository.dll
+F:\DotNet_Core_WEB_API\DotNetCoreAPI\API_Repository\bin\Debug\netcoreapp3.1\API_Repository.pdb
+F:\DotNet_Core_WEB_API\DotNetCoreAPI\API_Repository\obj\Debug\netcoreapp3.1\API_Repository.dll
+F:\DotNet_Core_WEB_API\DotNetCoreAPI\API_Repository\obj\Debug\netcoreapp3.1\API_Repository.pdb
+F:\DotNet_Core_WEB_API\DotNetCoreAPI\API_Repository\obj\Debug\netcoreapp3.1\API_Repository.genruntimeconfig.cache
